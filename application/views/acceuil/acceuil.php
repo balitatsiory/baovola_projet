@@ -1,0 +1,1 @@
+<img src="<?php echo site_url('assets/adobeimg/acceuil.png'); ?>" alt="img" srcset="">
